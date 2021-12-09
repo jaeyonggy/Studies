@@ -1,6 +1,6 @@
 ### About
 
-Repository for storing RNotebooks used in Statistics classes.  
+Repository for storing works done during Statistics classes, or any independent studies.   
 
 ### File description
 
