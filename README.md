@@ -15,3 +15,6 @@ Repository for storing works done during Statistics classes, or any independent 
 • Bayesian.nb.html :  A R Notebook that includes all the examples and codes that were used during Bayesian Statistics class - part1.
 
 • Bayesian_pt2.nb.html :  A R Notebook that includes all the examples and codes that were used during Bayesian Statistics class - part2.
+
+• MVA.nb.html:  A R Notebook that includes all the examples and codes that were used during Multivariate Analysis class - part1.
+
