@@ -18,5 +18,5 @@ Repository for storing works done during Statistics classes, or any independent 
 
 • Series of MVA.nb.html :  A series of R Notebooks that includes all the examples and codes that were used during Multivariate Analysis class.
 
-• RStatBasic folder :  A Folder containing a collection of R Notebook that I've used studying '제대로 알고 쓰는 R 통계분석 - 이윤환'.
+• RStatBasic folder :  A Folder containing a collection of R Notebooks that I've written while studying '제대로 알고 쓰는 R 통계분석 - 이윤환'.
 
