@@ -8,13 +8,9 @@ Repository for storing works done during Statistics classes, or any independent 
 
 • datamining_notebook.nb.html :  A R Notebook that contains all the models that were studied during the Datamining class. This includes most of known regression and classification models as well as some deep learning models. 
 
-• Bayes_HW.nb.html :  A R Notebook that I used for an assignment from Bayesian analysis class.
-
 • ML folder :  A folder containing a collection of Jupyter Notebooks that I've used studying Hands-on machine learning with scikit-learn and tensorflow 2nd edition.  
 
-• Bayesian.nb.html :  A R Notebook that includes all the examples and codes that were used during Bayesian Statistics class - part1.
-
-• Bayesian_pt2.nb.html :  A R Notebook that includes all the examples and codes that were used during Bayesian Statistics class - part2.
+• Bayesian folder :  A folder containing a collection of R Notebooks that includes all the examples and codes that were used during Bayesian Statistics class.
 
 • Series of MVA.nb.html :  A series of R Notebooks that includes all the examples and codes that were used during Multivariate Analysis class.
 
