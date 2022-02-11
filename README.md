@@ -16,5 +16,7 @@ Repository for storing works done during Statistics classes, or any independent 
 
 • Bayesian_pt2.nb.html :  A R Notebook that includes all the examples and codes that were used during Bayesian Statistics class - part2.
 
-• Series of MVA.nb.html:  A series of R Notebooks that includes all the examples and codes that were used during Multivariate Analysis class.
+• Series of MVA.nb.html :  A series of R Notebooks that includes all the examples and codes that were used during Multivariate Analysis class.
+
+• RStatBasic folder :  A Folder containing a collection of R Notebook that I've used studying '제대로 알고 쓰는 R 통계분석 - 이윤환'.
 
