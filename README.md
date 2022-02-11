@@ -12,6 +12,6 @@ Repository for storing works done during Statistics classes, or any other indepe
 
 • RStatBasic folder :  A Folder containing a collection of R Notebooks that I've written while studying '제대로 알고 쓰는 R 통계분석 - 이윤환'.
 
-• Timeseries.nb.html :  An R Notebook that contains all the assignments done for the Timeseries analysis class.
+• Timeseries.nb.html :  An R Notebook that contains all the assignments done for the Time Series Analysis class.
 
 • datamining_notebook.nb.html :  An R Notebook that contains all the models that were studied during the Datamining class. This includes most of known regression and classification models as well as some deep learning models. 
