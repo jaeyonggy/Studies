@@ -4,7 +4,11 @@ Repository for storing works done during Statistics classes, or any other indepe
 
 ### File description
 
-• Bayesian folder :  A folder containing a collection of R Notebooks that includes all the examples and codes that were used during Bayesian Statistics class.
+• Bayesian folder :  A folder containing a collection of R Notebooks that includes all the examples and codes that were used during Bayesian Statistics class.  
+
+• DeepLearningWithPython folder :  A folder containing a collection of Jupyter Notebooks that I've used studying 'Deep Learning with Python 2nd ed' by François Chollet.  
+
+• Forecasting:PrinciplesAndPractices folder :  A folder containing a collection of R Notebooks that includes all the examples and codes that were used while studying 'Forecasting: Principles and Practices 2nd ed' by Rob J Hyndman and George Athanasopoulos.  
 
 • ML folder :  A folder containing a collection of Jupyter Notebooks that I've used studying 'Hands-on machine learning with scikit-learn and tensorflow 2nd edition' by Aurélien Géron.  
 
