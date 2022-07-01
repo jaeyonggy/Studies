@@ -15,3 +15,7 @@ Repository for storing works done during Statistics classes, or any other indepe
 • Timeseries.nb.html :  An R Notebook that contains all the assignments done for the Time Series Analysis class.
 
 • datamining_notebook.nb.html :  An R Notebook that contains all the models that were studied during the Datamining class. This includes most of known regression and classification models as well as some deep learning models. 
+
+• HW1.html :  An R Notebook made as a project for time series prediction
+
+
